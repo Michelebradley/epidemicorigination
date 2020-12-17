@@ -1,0 +1,47 @@
+year,driver,disease,animal,subregion,country,latitude,longitude,coded_animal
+2020,Unknown,Yellow Fever Virus,Primates,Enugu,Nigeria,6.46,7.55,6
+2020,Unknown,Bunyavirus,Tick,Jiangsu,China,33.14,119.79,10
+2020,Unknown,Ebola,Bat,Mbandaka,Democratic Republic of the Congo,0.03,18.3,1
+2020,Unknown,Lassa Virus,Rodent,Edo,Nigeria,6.63,5.93,8
+2018,Unknown,Ebola,Bat,Kivu,Democratic Republic of the Congo,2.04,29.19,1
+2018,Unknown,Nipah Virus,Bat,Kerala,India,10.85,76.27,1
+2016,Unknown,Cholera,Humans,Sana'a,Yemen,15.37,44.19,7
+2014,Unknown,Jaundice,Humans,Sambalpur,India,21.47,83.98,7
+2014,Unknown,Bulbonic Plague,Flea,Soamahamanina,Managascar,-18.98,47.02,5
+2013,Unknown,Influenza A virus,Birds,Taiwan,China,23.7,120.96,2
+2013,Unknown,Influenza A virus,Birds,Shanghai,China,31.23,121.47,2
+2012,International Travel and Commerce,Influenza A virus,Birds,Ontario,Canada,51.25,-85.32,2
+2012,"Human Behavior, International Travel and Commerce, Ecosystem Change",Dengue virus,Primates,Madeira,Portugal,32.67,-16.92,6
+2012,Unknown,Coronavirus,Unknown,Zarqa,Jordan,32.06,36.09,9
+2012,Unknown,Norwalk virus,Humans,Cumberland County,Australia,-33.87,151.21,7
+2012,Unknown,Norwalk virus,Humans,Unknown,Denmark,56.26,9.5,7
+2012,"Ecosystem Change, Proximity to Wildlife",Seoul virus,Rodent,Yorkshire and Humber,United Kingdom,53.91,-1.03,8
+2008,Unknown,Unknown,Unknown,Virginia,United States,37.43,-78.66,9
+2008,Proximity to Wildlife,Lujo Virus,Rodent,Lusaka province,Zambia,-15.39,28.32,8
+2007,"Bushmeat, Proximity to Wildlife",Ebola,Bat,Bundibugyo,Uganda,0.71,30.06,1
+2007,Human Susceptibility to Infection,Candidatus Neoehrlichia mikurensis,Tick,Middle Franconia,Germany,49.36,10.65,10
+2007,Human Behavior,Crimean-Congo hemorrhagic fever virus,Tick,Istanbul,Turkey,38.6,30.36,10
+2007,"Breakdown of Public Health Measures, Medical Industry Changes",Halomonas stevensii,Unknown,California,United States,37.34,-121.89,9
+2007,Antimicrobial Agent Use,Plasmodium falciparum,Primates,"Pailin Province, Not Found",Cambodia,12.91,102.67,6
+2006,"Ecosystem Change, Proximity to Wildlife",Kampar virus,Bat,Perak,Malaysia,4.31,101.15,1
+2006,"Ecosystem Change, Proximity to Wildlife",Unknown,Unknown,Melaka,Malaysia,2.19,102.25,9
+2006,Unknown,Bunyavirus,Tick,Anhui Province,China,32.53,117.7,10
+2005,Unknown,Brucella inopinata,Unknown,Oregon,United States,45.51,-122.68,9
+2004,"Human Behavior, Medical Industry Changes",Bartonella,Domestic Animal,Unknown,France,46.23,2.21,3
+2004,"Ecosystem Change, Proximity to Wildlife",Bartonella,Domestic Animal,Ohio,United States,40.42,-82.91,3
+2004,Unknown,Unknown,Unknown,Chapare,Bolivia,-16.58,-65.25,9
+2004,Medical Industry Changes,Coronavirus,Bat,Guangdong Province,China,22.54,114.06,1
+2003,Unknown,Bartonella,Domestic Animal,Unknown,Peru,-9.19,-75.02,3
+2003,"Human Susceptibility to Infection, International Travel and Commerce",Granulibacter bethesdensis,Unknown,"Not Found, Maryland","Bahamas, United States",25.03,-78.04,9
+2003,Breakdown of Public Health Measures,Mycobacterium jacuzzii,Humans,Tel Aviv,Israel,32.09,34.78,7
+2002,Medical Industry Changes,Coronavirus,Bat,Holland,Netherland,52.37,4.9,1
+2002,Medical Industry Changes,Polyomavirus,Fish,Queensland,Australia,-20.92,142.7,4
+2002,Unknown,Mycobacterium lepromatosis,Unknown,Arizona,United States,34.05,-111.09,9
+2002,Medical Industry Changes,Rickettsia parkeri,Tick,Virginia,United States,37.43,-78.66,10
+2001,"Human Behavior, Human Susceptibility to Infection",Bartonella,Domestic Animal,Unknown,Israel,31.05,34.85,3
+2001,Ecosystem Change,Rabies Virus,Bat,Puntarenas,Costa Rica,8.7,-83.19,1
+2000,"Human Behavior, Climate and Weather, Ecosystem Change",Rio Mamore virus,Rodent,Maranhao,Brazil,-4.96,-45.27,8
+2000,Antimicrobial Agent Use,Enterococcus faecium,Humans,Illinois,United States,41.88,-87.63,7
+2000,Unknown,Haemophilus influenzae,Unknown,Northeast Italy,Italy,45.93,11.56,9
+2000,"Human Behavior, International Travel and Commerce",Neisseria meningitidis,Unknown,"Makkah, al Madinah",Saudi Arabia,21.39,39.86,9
+2000,Breakdown of Public Health Measures,Enterovirus C,Primates,"Uttar Pradesh, Gujarat, Moradabad",India,26.85,80.95,6
